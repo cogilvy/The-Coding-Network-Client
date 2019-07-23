@@ -1,6 +1,6 @@
-# Bookface Backend
+# The Coding Network Client
 
-Bookface was designed to be a Facebook clone with limited functionality. A User is able to signup, create posts, like and comment on other users posts, and become friends or 'follow' another user.
+The Coding Network was designed to be a Facebook clone with limited functionality. A User is able to signup, create posts, like and comment on other users posts, and become friends or 'follow' another user.
 
 
 ## Getting Started
